@@ -1,0 +1,38 @@
+#formulario {
+    margin-right: 35%;
+    margin-left: 35%;
+    margin-top: 100px;
+    margin-bottom: 75%px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    
+    background-color: bisque;
+
+
+}
+body{
+
+    background-color: black;
+    
+
+}
+
+#top{
+    padding: 30px;
+    color: aliceblue;
+    text-align: center;
+
+
+
+}
+#top h1:hover{
+
+    color: crimson;
+
+}
+
